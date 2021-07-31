@@ -18,7 +18,10 @@ A recipe app utilizing React Framework
 
 
 ## Dependecies
-
+- React
+- React-dom
+- react-scripts
+- uuid
 
 ## What the app looks like
-![alt text]
+![alt text]()
